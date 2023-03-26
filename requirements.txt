@@ -11,7 +11,8 @@ pytz==2023.2
 six==1.16.0
 Werkzeug==2.2.3
 pandas
-matplotlib.pyplot
 seaborn
 gunicorn==20.0.4
 sklearn
+python==3.8.0
+python==3.10.10
