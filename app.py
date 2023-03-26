@@ -50,4 +50,3 @@ def predict():
         return "<h1 style='color:red'> Customer has Churn</h1>"
     else:
         return "<h1 style='color:green'> Customer not Churn </h1>"
-  
